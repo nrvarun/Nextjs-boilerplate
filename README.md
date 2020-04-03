@@ -1,2 +1,3 @@
 # Nextjs-boilerplate
-A Next.Js based boilerplate with SASS, ReactStrap. 
+
+A Next.Js based boilerplate with SASS.
