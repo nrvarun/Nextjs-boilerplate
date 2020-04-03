@@ -2,8 +2,6 @@ import Link from "next/link";
 
 import { wrapper, link } from "./header.module.scss";
 
-import { Container, Row, Col } from "reactstrap";
-
 const Header = () => {
   return (
     <header className={wrapper}>
